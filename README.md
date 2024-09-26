@@ -1,0 +1,2 @@
+# Nonebot_Plugin_Mc_UserInfo
+ 基于nonebot的快捷查询玩家hypixel数据的机器人插件
